@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![snake gif](https://github.com/AravindaJogi/AravindaJogi/blob/output/github-contribution-grid-snake-dark.svg)
-## 🚀 My LeetCode Progress  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Nuray3665)](https://leetcode.com/Nuray3665/)
+
 
